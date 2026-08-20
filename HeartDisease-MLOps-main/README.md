@@ -303,10 +303,5 @@ Application containerized using Docker.
 
 ---
 
-# Author
-
-**Kanishka Rajesh**
 
 
-
-GitHub: https://github.com/Kanishka-Rajesh
